@@ -1,0 +1,6 @@
+D:\Users\dsilvaribeaux\Documents\visual studio 2017\Projects\PropagateProgramCode\bin\Debug\PropagateProgramCode.exe.config
+D:\Users\dsilvaribeaux\Documents\visual studio 2017\Projects\PropagateProgramCode\bin\Debug\PropagateProgramCode.exe
+D:\Users\dsilvaribeaux\Documents\visual studio 2017\Projects\PropagateProgramCode\bin\Debug\PropagateProgramCode.pdb
+D:\Users\dsilvaribeaux\Documents\visual studio 2017\Projects\PropagateProgramCode\obj\Debug\PropagateProgramCode.csprojResolveAssemblyReference.cache
+D:\Users\dsilvaribeaux\Documents\visual studio 2017\Projects\PropagateProgramCode\obj\Debug\PropagateProgramCode.exe
+D:\Users\dsilvaribeaux\Documents\visual studio 2017\Projects\PropagateProgramCode\obj\Debug\PropagateProgramCode.pdb
